@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="detail_short">
+
+        <item>ลายละเอียดที่ 1</item>
+        <item>ลายละเอียดที่ 2</item>
+        <item>ลายละเอียดที่ 3</item>
+        <item>ลายละเอียดที่ 4</item>
+        <item>ลายละเอียดที่ 5</item>
+        <item>ลายละเอียดที่ 6</item>
+        <item>ลายละเอียดที่ 7</item>
+        <item>ลายละเอียดที่ 8</item>
+        <item>ลายละเอียดที่ 9</item>
+        <item>ลายละเอียดที่ 10</item>
+        <item>ลายละเอียดที่ 11</item>
+        <item>ลายละเอียดที่ 12</item>
+        <item>ลายละเอียดที่ 13</item>
+        <item>ลายละเอียดที่ 14</item>
+        <item>ลายละเอียดที่ 15</item>
+        <item>ลายละเอียดที่ 16</item>
+        <item>ลายละเอียดที่ 17</item>
+        <item>ลายละเอียดที่ 18</item>
+        <item>ลายละเอียดที่ 19</item>
+        <item>ลายละเอียดที่ 20</item>
+
+    </string-array>
+
+</resources>
